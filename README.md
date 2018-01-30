@@ -3,7 +3,7 @@
 Django Learning Platform. RESTFul LMS backend.
 
 ## Features
-* [ ] Students/Teachers/Administrators control
+* [x] Students/Teachers/Administrators control
 * [ ] Courses/Disciplines/Classes 
 * [ ] Forum/Messages management
 * [ ] Learning media content management
